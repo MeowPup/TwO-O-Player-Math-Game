@@ -1,0 +1,35 @@
+---- Nouns ---- 
+Player
+Game
+Question
+
+---- Roles ----
+--- Player ---
+
+Declare name
+Initialize name
+
+Delcare lives
+initialize lives
+
+Update lives 
+
+--- Game ---
+
+Manage who the current player is 
+
+Contain the game loop (?)
+
+I/O interface
+
+--- Question ---
+
+Declare question
+initialize question
+
+Delcare answer
+Initialize answer
+
+Function to check if answer is correct or not for the question
+
+
